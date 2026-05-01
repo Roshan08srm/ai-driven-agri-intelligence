@@ -27,8 +27,8 @@ ENV/
 
 # Large Models (GitHub 100MB limit)
 # Note: vgg16_final.h5 is 176MB. 
-# You should use Git LFS or store this externally.
-vgg16_final.h5
+# Tracked via Git LFS
+# vgg16_final.h5
 
 # Local configuration
 .env
