@@ -1,0 +1,25 @@
+Date,Lat,Lon,Disease,Type
+2026-04-27 00:00:00,16.71512,81.89671,rice___LeafBlast (Rice),Vector
+2026-04-27 00:00:00,16.7607989,81.8435349,pumpkin___Powdery Mildew (Pumpkin),Airborne
+2026-04-27 00:00:00,16.73255,81.84934,tomato___Late blight (Tomato),Waterborne
+2026-04-27 00:00:00,16.64671,81.71221,cotton___Bacterial Blight (Cotton),Airborne
+2026-04-27 00:00:00,16.75,81.75,corn(maize)___Common rust (Corn (maize)),Airborne
+2026-04-27 00:00:00,16.68,81.82,apple___Apple scab (Apple),Airborne
+2026-04-27 00:00:00,16.72,81.78,potato___Early blight (Potato),Waterborne
+2026-04-27 00:00:00,16.8,81.8,mango___Anthracnose (Mango),Waterborne
+2026-04-27 00:00:00,16.6,81.9,sugarcane___RedRot (Sugarcane),Waterborne
+2026-04-27 00:00:00,16.74,81.85,grape___Black rot (Grape),Waterborne
+2026-04-27 00:00:00,16.78,81.88,chilli___Anthracnose (Chilli),Vector
+2026-04-27 00:00:00,16.7,81.7,wheat___Rust (Wheat),Airborne
+2026-04-27 00:00:00,16.7529,81.676,banana___Sigatoka (Banana),Airborne
+2026-04-27 00:00:00,16.6879,81.7439,groundnut___LeafSpot (Groundnut),Waterborne
+2026-04-27 00:00:00,16.5937,81.9629,soybean___Rust (Soybean),Airborne
+2026-04-27 00:00:00,16.71512,81.89671,"Pepper, bell___healthy (Pepper, bell)",Detected
+2026-04-27 00:00:00,16.71512,81.89671,apple___Apple scab (Apple),Detected
+2026-04-27 00:00:00,16.651323069680036,81.47871544058476,apple___Apple scab (Apple),Detected
+2026-04-27 00:00:00,16.651323069680036,81.47871544058476,Unknown Disease,Detected
+2026-04-27 00:00:00,16.576971399774116,81.66206407972906,Unknown Disease,Detected
+2026-04-27 00:00:00,20.5937,78.9629,pumpkin___Powdery Mildew (Pumpkin),Detected
+2026-04-27 00:00:00,20.5937,78.9629,Unknown Disease,
+2026-04-27,20.5937,78.9629,Unknown Disease,
+2026-04-28,16.71512,81.89671,Unknown Disease,

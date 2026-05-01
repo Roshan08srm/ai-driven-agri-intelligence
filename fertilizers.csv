@@ -1,0 +1,119 @@
+Crop Type,Common Diseases,Fertilizer Name,Soil Type,Temparature,Humidity,Moisture,Nitrogen,Potassium,Phosphorous
+Maize,"Downy Mildew, Common Rust, Leaf Blight",Urea,Sandy,26,52,38,37,0,0
+Sugarcane,"Red Rot, Smut, Wilt, Grassy Shoot",DAP,Loamy,29,52,45,12,0,36
+Cotton,"Bacterial Blight, Fusarium Wilt, Boll Rot",14-35-14,Black,34,65,62,7,9,30
+Tobacco,"Leaf Curl Virus, Mosaic Virus, Black Shank",28-28,Red,32,62,34,22,0,20
+Rice,"Rice Blast, Brown Spot, Bacterial Leaf Blight",Urea,Clayey,28,54,46,35,0,0
+Barley,"Covered Smut, Powdery Mildew, Leaf Spot",17-17-17,Sandy,26,52,35,12,10,13
+Cotton,"Bacterial Blight, Fusarium Wilt, Boll Rot",20-20,Red,25,50,64,9,0,10
+Wheat,"Stem Rust, Loose Smut, Karnal Bunt",Urea,Loamy,33,64,50,41,0,0
+Millets,"Downy Mildew, Blast, Grain Smut",28-28,Sandy,30,60,42,21,0,18
+Oil seeds,"White Rust, Alternaria Leaf Spot, Downy Mildew",14-35-14,Black,29,58,33,9,7,30
+Pulses,"Fusarium Wilt, Powdery Mildew, Root Rot",DAP,Clayey,27,54,28,13,0,40
+Maize,"Downy Mildew, Common Rust, Leaf Blight",17-17-17,Sandy,31,62,48,14,15,12
+Cotton,"Bacterial Blight, Fusarium Wilt, Boll Rot",Urea,Loamy,25,50,65,36,0,0
+Rice,"Rice Blast, Brown Spot, Bacterial Leaf Blight",28-28,Clayey,32,62,41,24,0,22
+Ground Nuts,"Tikka Disease (Leaf Spot), Rust, Collar Rot",DAP,Red,26,52,31,14,0,41
+Sugarcane,"Red Rot, Smut, Wilt, Grassy Shoot",17-17-17,Black,31,62,49,10,13,14
+Pulses,"Fusarium Wilt, Powdery Mildew, Root Rot",Urea,Clayey,33,64,34,38,0,0
+Barley,"Covered Smut, Powdery Mildew, Leaf Spot",28-28,Sandy,25,50,39,21,0,19
+Cotton,"Bacterial Blight, Fusarium Wilt, Boll Rot",Urea,Black,28,54,65,39,0,0
+Wheat,"Stem Rust, Loose Smut, Karnal Bunt",DAP,Loamy,29,58,52,13,0,36
+Millets,"Downy Mildew, Blast, Grain Smut",20-20,Sandy,30,60,44,10,0,9
+Sugarcane,"Red Rot, Smut, Wilt, Grassy Shoot",17-17-17,Loamy,34,65,53,12,14,12
+Tobacco,"Leaf Curl Virus, Mosaic Virus, Black Shank",DAP,Red,35,68,33,11,0,37
+Millets,"Downy Mildew, Blast, Grain Smut",Urea,Black,28,54,37,36,0,0
+Paddy,"Rice Blast, Brown Spot, Bacterial Leaf Blight",20-20,Clayey,33,64,39,13,0,10
+Maize,"Downy Mildew, Common Rust, Leaf Blight",28-28,Sandy,26,52,44,23,0,20
+Cotton,"Bacterial Blight, Fusarium Wilt, Boll Rot",14-35-14,Red,30,60,63,9,9,29
+Sugarcane,"Red Rot, Smut, Wilt, Grassy Shoot",Urea,Loamy,32,62,30,38,0,0
+Oil seeds,"White Rust, Alternaria Leaf Spot, Downy Mildew",DAP,Black,37,70,32,12,0,39
+Pulses,"Fusarium Wilt, Powdery Mildew, Root Rot",20-20,Clayey,26,52,36,14,0,13
+Ground Nuts,"Tikka Disease (Leaf Spot), Rust, Collar Rot",28-28,Red,29,58,40,24,0,23
+Sugarcane,"Red Rot, Smut, Wilt, Grassy Shoot",DAP,Loamy,30,60,27,12,0,40
+Rice,"Rice Blast, Brown Spot, Bacterial Leaf Blight",Urea,Clayey,34,65,38,39,0,0
+Barley,"Covered Smut, Powdery Mildew, Leaf Spot",14-35-14,Sandy,36,68,38,7,9,30
+Wheat,"Stem Rust, Loose Smut, Karnal Bunt",28-28,Loamy,26,52,48,23,0,19
+Millets,"Downy Mildew, Blast, Grain Smut",Urea,Black,28,54,35,41,0,0
+Cotton,"Bacterial Blight, Fusarium Wilt, Boll Rot",14-35-14,Loamy,30,60,61,8,10,31
+Rice,"Rice Blast, Brown Spot, Bacterial Leaf Blight",DAP,Clayey,37,70,37,12,0,41
+Ground Nuts,"Tikka Disease (Leaf Spot), Rust, Collar Rot",17-17-17,Red,25,50,26,15,14,11
+Millets,"Downy Mildew, Blast, Grain Smut",DAP,Sandy,29,58,34,15,0,37
+Pulses,"Fusarium Wilt, Powdery Mildew, Root Rot",20-20,Clayey,27,54,30,13,0,13
+Sugarcane,"Red Rot, Smut, Wilt, Grassy Shoot",14-35-14,Loamy,30,60,58,10,7,32
+Tobacco,"Leaf Curl Virus, Mosaic Virus, Black Shank",28-28,Red,32,62,34,22,0,24
+Sugarcane,"Red Rot, Smut, Wilt, Grassy Shoot",Urea,Black,34,65,60,35,0,0
+Barley,"Covered Smut, Powdery Mildew, Leaf Spot",DAP,Sandy,35,67,42,10,0,35
+Wheat,"Stem Rust, Loose Smut, Karnal Bunt",14-35-14,Loamy,38,70,48,8,8,28
+Oil seeds,"White Rust, Alternaria Leaf Spot, Downy Mildew",20-20,Black,26,52,32,12,0,8
+Rice,"Rice Blast, Brown Spot, Bacterial Leaf Blight",28-28,Clayey,29,58,43,24,0,18
+Ground Nuts,"Tikka Disease (Leaf Spot), Rust, Collar Rot",Urea,Red,30,60,29,41,0,0
+Maize,"Downy Mildew, Common Rust, Leaf Blight",14-35-14,Sandy,33,64,51,5,9,29
+Tobacco,"Leaf Curl Virus, Mosaic Virus, Black Shank",28-28,Red,34,65,31,23,0,21
+Oil seeds,"White Rust, Alternaria Leaf Spot, Downy Mildew",20-20,Black,36,68,33,13,0,14
+Pulses,"Fusarium Wilt, Powdery Mildew, Root Rot",Urea,Clayey,28,54,38,40,0,0
+Barley,"Covered Smut, Powdery Mildew, Leaf Spot",DAP,Sandy,30,60,47,12,0,42
+Cotton,"Bacterial Blight, Fusarium Wilt, Boll Rot",17-17-17,Red,31,62,63,11,12,15
+Millets,"Downy Mildew, Blast, Grain Smut",28-28,Black,27,53,43,23,0,24
+Wheat,"Stem Rust, Loose Smut, Karnal Bunt",Urea,Loamy,34,65,54,38,0,0
+Millets,"Downy Mildew, Blast, Grain Smut",20-20,Sandy,29,58,37,8,0,15
+Sugarcane,"Red Rot, Smut, Wilt, Grassy Shoot",17-17-17,Loamy,25,50,56,11,13,15
+Ground Nuts,"Tikka Disease (Leaf Spot), Rust, Collar Rot",DAP,Red,32,62,34,15,0,37
+Paddy,"Rice Blast, Brown Spot, Bacterial Leaf Blight",Urea,Clayey,28,54,41,36,0,0
+Wheat,"Stem Rust, Loose Smut, Karnal Bunt",20-20,Loamy,30,60,49,13,0,9
+Cotton,"Bacterial Blight, Fusarium Wilt, Boll Rot",28-28,Black,34,65,64,24,0,20
+Barley,"Covered Smut, Powdery Mildew, Leaf Spot",10-26-26,Sandy,28,54,47,5,18,15
+Oil seeds,"White Rust, Alternaria Leaf Spot, Downy Mildew",Urea,Black,27,53,35,37,0,0
+Cotton,"Bacterial Blight, Fusarium Wilt, Boll Rot",DAP,Red,36,68,62,15,0,40
+Sugarcane,"Red Rot, Smut, Wilt, Grassy Shoot",20-20,Black,34,65,57,9,0,13
+Sugarcane,"Red Rot, Smut, Wilt, Grassy Shoot",14-35-14,Loamy,29,58,55,8,8,33
+Pulses,"Fusarium Wilt, Powdery Mildew, Root Rot",10-26-26,Clayey,25,50,40,6,19,16
+Millets,"Downy Mildew, Blast, Grain Smut",20-20,Sandy,30,60,38,10,0,14
+Pulses,"Fusarium Wilt, Powdery Mildew, Root Rot",28-28,Clayey,26,52,39,21,0,23
+Tobacco,"Leaf Curl Virus, Mosaic Virus, Black Shank",Urea,Red,31,62,32,39,0,0
+Wheat,"Stem Rust, Loose Smut, Karnal Bunt",28-28,Loamy,34,65,48,23,0,19
+Oil seeds,"White Rust, Alternaria Leaf Spot, Downy Mildew",Urea,Black,27,53,34,42,0,0
+Ground Nuts,"Tikka Disease (Leaf Spot), Rust, Collar Rot",DAP,Red,33,64,31,13,0,39
+Rice,"Rice Blast, Brown Spot, Bacterial Leaf Blight",14-35-14,Clayey,29,58,42,9,10,22
+Maize,"Downy Mildew, Common Rust, Leaf Blight",28-28,Sandy,30,60,47,22,0,21
+Sugarcane,"Red Rot, Smut, Wilt, Grassy Shoot",20-20,Loamy,27,53,59,10,0,15
+Pulses,"Fusarium Wilt, Powdery Mildew, Root Rot",10-26-26,Clayey,26,52,36,7,16,20
+Cotton,"Bacterial Blight, Fusarium Wilt, Boll Rot",DAP,Red,34,65,63,14,0,38
+Rice,"Rice Blast, Brown Spot, Bacterial Leaf Blight",14-35-14,Clayey,28,54,43,10,8,29
+Millets,"Downy Mildew, Blast, Grain Smut",Urea,Sandy,30,60,40,41,0,0
+Cotton,"Bacterial Blight, Fusarium Wilt, Boll Rot",DAP,Black,29,58,65,14,0,35
+Sugarcane,"Red Rot, Smut, Wilt, Grassy Shoot",20-20,Loamy,26,52,59,11,0,9
+Barley,"Covered Smut, Powdery Mildew, Leaf Spot",28-28,Sandy,31,62,44,21,0,28
+Pulses,"Fusarium Wilt, Powdery Mildew, Root Rot",14-35-14,Clayey,35,67,28,8,7,31
+Tobacco,"Leaf Curl Virus, Mosaic Virus, Black Shank",10-26-26,Red,29,58,30,13,17,16
+Millets,"Downy Mildew, Blast, Grain Smut",Urea,Black,27,53,30,35,0,0
+Wheat,"Stem Rust, Loose Smut, Karnal Bunt",10-26-26,Loamy,36,68,50,12,18,19
+Cotton,"Bacterial Blight, Fusarium Wilt, Boll Rot",DAP,Loamy,29,58,61,11,0,38
+Oil seeds,"White Rust, Alternaria Leaf Spot, Downy Mildew",14-35-14,Black,30,60,26,8,9,30
+Rice,"Rice Blast, Brown Spot, Bacterial Leaf Blight",10-26-26,Clayey,34,65,45,6,19,21
+Ground Nuts,"Tikka Disease (Leaf Spot), Rust, Collar Rot",Urea,Red,36,68,41,41,0,0
+Maize,"Downy Mildew, Common Rust, Leaf Blight",14-35-14,Sandy,28,54,25,9,10,30
+Pulses,"Fusarium Wilt, Powdery Mildew, Root Rot",28-28,Clayey,25,50,32,24,0,19
+Tobacco,"Leaf Curl Virus, Mosaic Virus, Black Shank",10-26-26,Red,30,60,27,4,17,17
+Wheat,"Stem Rust, Loose Smut, Karnal Bunt",Urea,Loamy,38,72,51,39,0,0
+Millets,"Downy Mildew, Blast, Grain Smut",DAP,Sandy,36,60,43,15,0,41
+Sugarcane,"Red Rot, Smut, Wilt, Grassy Shoot",20-20,Black,29,58,57,12,0,10
+Mango,"Anthracnose, Powdery Mildew, Red Rust, Dieback",17-17-17,Loamy,30,60,50,15,15,15
+Tomato,"Early/Late Blight, Fusarium Wilt, Septoria Leaf Spot",10-26-26,Clayey,28,65,45,10,26,26
+Brinjal,"Phomopsis Blight, Bacterial Wilt, Damping Off",28-28,Black,27,70,40,28,0,28
+Mango,"Anthracnose, Powdery Mildew, Red Rust, Dieback",Urea,Loamy,31,57,54,46,0,0
+Mango,"Anthracnose, Powdery Mildew, Red Rust, Dieback",10-26-26,Loamy,30,60,47,10,26,26
+Mango,"Anthracnose, Powdery Mildew, Red Rust, Dieback",20-20,Sandy,33,77,57,20,0,20
+Mango,"Anthracnose, Powdery Mildew, Red Rust, Dieback",20-20,Clayey,26,66,41,20,0,20
+Mango,"Anthracnose, Powdery Mildew, Red Rust, Dieback",10-26-26,Clayey,27,64,44,10,26,26
+Mango,"Anthracnose, Powdery Mildew, Red Rust, Dieback",Urea,Alluvial,27,53,56,46,0,0
+Mango,"Anthracnose, Powdery Mildew, Red Rust, Dieback",10-26-26,Loamy,26,79,40,10,26,26
+Mango,"Anthracnose, Powdery Mildew, Red Rust, Dieback",10-26-26,Alluvial,29,50,43,10,26,26
+Tomato,"Early/Late Blight, Fusarium Wilt, Septoria Leaf Spot",10-26-26,Sandy,25,70,49,10,26,26
+Tomato,"Early/Late Blight, Fusarium Wilt, Septoria Leaf Spot",10-26-26,Black,28,81,44,10,26,26
+Tomato,"Early/Late Blight, Fusarium Wilt, Septoria Leaf Spot",28-28,Loamy,23,80,50,28,0,28
+Tomato,"Early/Late Blight, Fusarium Wilt, Septoria Leaf Spot",10-26-26,Clayey,26,75,44,10,26,26
+Tomato,"Early/Late Blight, Fusarium Wilt, Septoria Leaf Spot",DAP,Sandy,28,70,47,18,0,46
+Tomato,"Early/Late Blight, Fusarium Wilt, Septoria Leaf Spot",DAP,Black,28,61,54,18,0,46
+Tomato,"Early/Late Blight, Fusarium Wilt, Septoria Leaf Spot",14-35-14,Sandy,25,68,57,14,14,35
+Tomato,"Early/Late Blight, Fusarium Wilt, Septoria Leaf Spot",DAP,Loamy,28,66,43,18,0,46

@@ -1,0 +1,11 @@
+streamlit
+streamlit-folium
+folium
+requests
+pandas
+numpy
+Pillow
+opencv-python
+scikit-learn
+tensorflow
+geocoder

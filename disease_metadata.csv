@@ -1,0 +1,47 @@
+Disease_Keyword,Transmission_Type,Danger_Multiplier
+Apple scab,Airborne,0.8
+Bacterial Blight,Airborne,0.8
+BacterialBlights,Airborne,0.8
+Cedar apple rust,Airborne,0.8
+Common rust,Airborne,0.8
+Downy Mildew,Airborne,0.8
+Early blight,Airborne,0.8
+Late blight,Airborne,0.8
+Leaf blight,Airborne,0.8
+Isariopsis Leaf Spot,Airborne,0.8
+Northern Leaf Blight,Airborne,0.8
+Powdery mildew,Airborne,0.8
+Rust,Airborne,0.8
+Algal Leaf Spot,Waterborne,1.2
+Anthracnose,Waterborne,1.2
+Bacterial Canker,Waterborne,1.2
+Bacterial Leaf Spot,Waterborne,1.2
+Bacterial spot,Waterborne,1.2
+Black rot,Waterborne,1.2
+Black Spot,Waterborne,1.2
+BrownSpot,Waterborne,1.2
+Cercospora leaf spot,Waterborne,1.2
+Gray leaf spot,Waterborne,1.2
+RedRot,Waterborne,1.2
+Septoria leaf spot,Waterborne,1.2
+Spider mites,Waterborne,1.2
+Target spot,Waterborne,1.2
+Aphids,Vector,0.3
+Cutting Weevil,Vector,0.3
+Die Back,Vector,0.3
+Esca,Vector,0.3
+Black Measles,Vector,0.3
+Gall Midge,Vector,0.3
+Haunglongbing,Vector,0.3
+Citrus greening,Vector,0.3
+Hispa,Vector,0.3
+Leaf Mold,Vector,0.3
+Leaf scorch,Vector,0.3
+LeafBlast,Vector,0.3
+Mosaic,Vector,0.3
+Sooty Mould,Vector,0.3
+Tomato mosaic virus,Vector,0.3
+Tomato Yellow Leaf Curl Virus,Vector,0.3
+Yellow,Vector,0.3
+Unknown Disease,None,0.0
+healthy,None,0.0
