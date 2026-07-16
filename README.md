@@ -1,12 +1,14 @@
 # AI Driven Agri Intelligence
 
+
+
 ## 👥 Project Architecture & Team Roles
 
-This repository hosts the centralized codebase for our 2-person engineering project. Because I handled the final module consolidation and code tracking from my account, it is hosted under my personal profile. The workload was divided cleanly as follows:
+This repository hosts the centralized codebase for our 2-person engineering and research project. Because I handled the final architecture integration and repository tracking from my account, it is hosted under my personal profile. The workload was divided cleanly as follows:
 
-* **Roshan Kantipudi (Lead Backend AI Architect)**: Owned the entire server-side AI engineering. Built the Python text-extraction pipeline using the Google Cloud Vision API, engineered the Y-Axis Line Reconstruction logic, developed the 2-Stage Heuristic Filtering Layer (~95% accuracy), and designed the time-series Proactive Expiry Engine.
-* **Satya (Frontend & Database Specialist)**: Developed the client-side user interface layouts using React Native/Expo and managed local relational database schemas.
-
+* **Roshan Kantipudi (Lead Data Engineer & Performance Specialist)**: Owned the end-to-end data pipeline and model evaluation architecture. Engineered the logical tracking map using in-memory Pandas DataFrames to manage 28,000 crop images across 69 distinct disease classes. Built the runtime lazy-loading batch generators to prevent GPU memory crashes, implemented tensor normalization pipelines, constructed the multi-model benchmarking framework (evaluating VGG16, ResNet50, and InceptionV3), and integrated the Grad-CAM++ explainability activation layer. Co-authored the final research manuscript tailored to IEEE publication standards.
+* **Satya (Frontend Dashboard & Environment Specialist)**: Developed the interactive web diagnostic dashboard interface for end-users, managed local execution environment dependencies, and assisted with initial dataset documentation and environment configurations.
+  
 This project uses a VGG16 model to detect crop diseases and provides fertilizer recommendations based on crop data.
 
 ## Features
